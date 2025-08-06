@@ -69,8 +69,13 @@ JWT_EXPIRES_IN=1d
 ## How to Run the Project
 
 ### 1. Clone or unzip the project
+https://github.com/dimple2304/Chat-app
+
+
 
 ### 2. Navigate into the backend folder
+look at the requirements.txt
+
 cd backend
 
 
