@@ -1,0 +1,7 @@
+express
+mongoose
+cors
+dotenv
+nodemailer
+jsonwebtoken
+socket.io
